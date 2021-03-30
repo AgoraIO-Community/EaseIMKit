@@ -1,0 +1,6 @@
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/easemob/chat-ios
+[submodule "android"]
+	path = android
+	url = https://github.com/easemob/chat-android
